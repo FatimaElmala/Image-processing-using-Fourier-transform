@@ -1,5 +1,6 @@
 # Image-processing-using-Fourier-transform
 This project is to practice Fourier transform of different functions and to find the difference between the following two images. 
+
 ![sushi1](https://user-images.githubusercontent.com/56048909/147371749-02d0181e-4770-4985-859e-fbe12002fcce.jpg) 
 ![sushi2](https://user-images.githubusercontent.com/56048909/147371750-82a70d30-04db-4208-9383-c3bb6c2597de.jpg)
 
